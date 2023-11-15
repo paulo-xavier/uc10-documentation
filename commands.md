@@ -7,7 +7,7 @@
 - [Commands](#commands)  
   - [Setting commands](#%EF%B8%8F-settings-commands) 
   - [Creating Git and opening connection with GitHub](#%EF%B8%8F-creating-git-and-opening-connection-with-github)  
-  - [Updating local repository](#updating-local-repository)
+  - [Updating local repository](#%EF%B8%8F-updating-local-repository)
   - [Cloning repositories](#cloning-repositories)
   - [Working with branches](#working-with-branches)
   - [Extra commands](#extra-commands)
