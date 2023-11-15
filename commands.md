@@ -5,7 +5,7 @@
 ## Table of contents
 
 - [Commands](#commands)  
-  - [Setting commands](#settings-commands) 
+  - [Setting commands](#%EF%B8%8F-settings-commands) 
   - [Creating Git and opening connection with GitHub](#creating-git-and-opening-connection-with-github)  
   - [Updating local repository](#updating-local-repository)
   - [Cloning repositories](#cloning-repositories)
