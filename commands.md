@@ -6,12 +6,11 @@
 
 - [Commands](#commands)  
   - [Setting commands](#settings-commands) 
-  - [Opening a local git repository](#creating-git-and-opening-connection-with-github)  
-  - [Links](#links) 
-- [My process](#my-process) 
-  - [Built with](#built-with) 
-  - [What I learned](#what-i-learned) 
-  - [Useful resources](#useful-resources)
+  - [Creating Git and opening connection with GitHub](#creating-git-and-opening-connection-with-github)  
+  - [Updating local repository](#updating-local-repository)
+  - [Cloning repositories](#cloning-repositories)
+  - [Working with branches](#working-with-branches)
+  - [Extra commands](#extra-commands)
 - [Author](#author)
 
 ## Commands
@@ -56,9 +55,10 @@
 
   ### ⚙️ Updating local repository 
 
-|  Command     | Description                                                         |
-| ------------ |  -----------                                                        |
-|  `git pull`  | **Pull the newest changes made in the remote repository on GitHub** |      
+|  Command                                                          | Description                                                        |
+| ------------                                                      |    -----------                                                     |
+|  `git pull`                                                       | **Pull the newest changes made in the remote repository on GitHub**|
+| `git pull <https://github.com/user/repository.git> <branch-name>` | **Pull the newest changes of a specific branch**                   |
 
 </div>
 
@@ -95,13 +95,11 @@
 
   ### ⚙️ Extra commands
 
-|  Command                        | Description                        |
-| ------------                    |  -----------                       |
-| `git branch <branch-name>`      | **Create a new branch**            |
-| `git checkout <branch-name>`    | **Switch to the branch**           |
-| `git checkout -b <branch-name>` | **Create and switch to the branch**|
-| `git branch -d <branch-name>`   | **Delete branch**                  |
-
+|  Command                                                            | Description                                                       |
+| ------------                                                        |  -----------                                                      |
+| `git log`                                                           | **Show all the commits made**                                     |
+| `git add --all`                                                     | **Add all files at the same time to the staging area**            |
+| `git remote set-url origin <https://github.com/user/repository.git>`| **Set a new remote repository origin where you will commit files**| 
 </div>
 <br><br>
 
