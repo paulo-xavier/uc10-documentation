@@ -12,7 +12,7 @@
 ## Explanation abut the code involving excel and python
 
 <div align="center">
-  
+
 ```
 import pandas as pd
 
@@ -21,8 +21,10 @@ df = pd.read_excel("base.xlsx")
 df['Average'] = df[['Grade1', 'Grade2', 'Grade3']].mean(axis=1)
 
 df.to_excel('grade_student.xlsx', index=False)
+
 ```
 </div>
+
 <br>
 
  In this code example, we are working with a excel spreadsheet called `base.xlsx`. This spreadsheet contains the following data: 
