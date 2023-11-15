@@ -8,9 +8,9 @@
   - [Setting commands](#%EF%B8%8F-settings-commands) 
   - [Creating Git and opening connection with GitHub](#%EF%B8%8F-creating-git-and-opening-connection-with-github)  
   - [Updating local repository](#%EF%B8%8F-updating-local-repository)
-  - [Cloning repositories](#EF%B8%8F-cloning-repositories)
-  - [Working with branches](#EF%B8%8F-working-with-branches)
-  - [Extra commands](#EF%B8%8F-extra-commands)
+  - [Cloning repositories](#%EF%B8%8F-cloning-repositories)
+  - [Working with branches](#%EF%B8%8F-working-with-branches)
+  - [Extra commands](#%EF%B8%8F-extra-commands)
 - [Author](#author)
 
 ## Commands
