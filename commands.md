@@ -6,7 +6,7 @@
 
 - [Commands](#commands)  
   - [Setting commands](#settings-commands) 
-  - [Opening a local git repository](#creating-git-and-oppening-connection-with-github)  
+  - [Opening a local git repository](#creating-git-and-opening-connection-with-github)  
   - [Links](#links) 
 - [My process](#my-process) 
   - [Built with](#built-with) 
@@ -20,12 +20,16 @@
 
 ### ⚙️ Settings commands
 
-|  Command                                             | Description                     |
-| ------------                                         |  -----------                    |
-|  `git config --global user.name "name-example" `     |  **Set the global user name**   |
-|  `git config --global user.email "email-example"`    |  **Set the global user email**  |
-|  `git config --global user.name unset`               | **Remove the global user name** |
-|  `git config --global user.email unset`              | **Remove the global user email**|
+|  Command                                             | Description                                 |
+| ------------                                         |  -----------                                |
+|  `git config --global user.name "name-example" `     |  **Set the global user name**               |
+|  `git config --global user.email "email-example"`    |  **Set the global user email**              |
+|  `git config --global user.name unset`               | **Remove the global user name**             |
+|  `git config --global user.email unset`              | **Remove the global user email**            |
+|  `git config --global --list`                        | **List the global user and email registerd**| 
+|  `git config --list`                                 | **Open a list of settings available**       |  
+|  `git config`                                        | **Show all the configurations available**   |
+
 </div>
 <br><br>
 
@@ -42,6 +46,7 @@
 |  `git remote add origin <https://github.com/user/repository.git>`| **Set the repository origin where you will add the files**    |
 |  `git remote -v`                                                 | **Verify if the connection to the repository is correct**     |
 |  `git push -u origin <branch-name>`                              | **Send the branch files to the remote repository on GitHub**  |
+|  `git status`                                                    | **Verify the current status of your local git repository**  |
 
 </div>
 
@@ -51,9 +56,52 @@
 
   ### ⚙️ Updating local repository 
 
-|  Command                                                         | Description                                                         |
-| ------------                                                     |  -----------                                                        |
-|  `git pull`                                                      | **Pull the newest changes made in the remote repository on GitHub** |      
-
+|  Command     | Description                                                         |
+| ------------ |  -----------                                                        |
+|  `git pull`  | **Pull the newest changes made in the remote repository on GitHub** |      
 
 </div>
+
+<br><br>
+
+<div align="center"> 
+
+  ### ⚙️ Cloning repositories
+
+|  Command                                              | Description                                                         |
+| ------------                                          |  -----------                                                        |
+|  `git clone <https://github.com/user/repository.git>` | **Create a copy of a remote repository in your local machine**      |      
+
+</div>
+<br><br>
+
+<div align="center"> 
+
+  ### ⚙️ Working with branches
+
+|  Command                        | Description                        |
+| ------------                    |  -----------                       |
+| `git branch <branch-name>`      | **Create a new branch**            |
+| `git checkout <branch-name>`    | **Switch to the branch**           |
+| `git checkout -b <branch-name>` | **Create and switch to the branch**|
+| `git branch -d <branch-name>`   | **Delete branch**                  |
+| `git branch`                    | **Show all the branches available**|
+
+</div>
+<br><br>
+
+
+<div align="center"> 
+
+  ### ⚙️ Extra commands
+
+|  Command                        | Description                        |
+| ------------                    |  -----------                       |
+| `git branch <branch-name>`      | **Create a new branch**            |
+| `git checkout <branch-name>`    | **Switch to the branch**           |
+| `git checkout -b <branch-name>` | **Create and switch to the branch**|
+| `git branch -d <branch-name>`   | **Delete branch**                  |
+
+</div>
+<br><br>
+
