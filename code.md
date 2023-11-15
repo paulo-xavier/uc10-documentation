@@ -31,11 +31,13 @@ df.to_excel('grade_student.xlsx', index=False)
 <div align="center">
  <img src = "https://github.com/paulo-xavier/uc10-documentation/blob/main/assets/excel1.png" width="550px" height="150px">
 </div>
+
 <br>
+
 As we can see, this spreadsheet contains a list of students and their respective grades. However, a column with the average of their grades is missing. To avoid the process of making the average manually, we are going to create a python code for that. 
 In the first line we improt a package called <code>pandas</code>. This package will allow us to read the <code>.csv</code> file and generate a new file based on that. 
 
- <br>
+<br>
 
 > <p align="center"> <code>import pandas as pd </code> </p>
 
@@ -54,7 +56,8 @@ Finally, in this code snippet we will generate a new column, named `average` whi
 > <p align = "center" > <code> df['Average'] = df[['Grade1', 'Grade2', 'Grade3']].mean(axis=1) </code>  </p>
 
 <br>
-Then, Python will generate a new CSV file containing the column `average`. This new file is named `grade_student.xlsx`. 
+
+Then, Python will generate a new CSV file containing the column <code>average</code>. This new file is named <code>grade_student.xlsx</code>. 
 
 <br>
 
