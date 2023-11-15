@@ -46,7 +46,7 @@
 |  `git remote -v`                                                 | **Verify if the connection to the repository is correct**     |
 |  `git push -u origin <branch-name>`                              | **Send the branch files to the remote repository on GitHub**  |
 |  `git status`                                                    | **Verify the current status of your local git repository**  |
-
+ 
 </div>
 
 <br><br>
