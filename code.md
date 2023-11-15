@@ -50,7 +50,7 @@ In the next line, we will read the file `base.xlsx` that contains our excel spre
 > <p align = "center" > <code> df = pd.read_excel("base.xlsx")</code>  </p>
 <br>
 
-Finally, in this code snippet we will generate a new column, named `average` which is the sum of the 3 grades divided by 3. Python automatically will calculate the grade average for each row and will assign the result in a new column called `average`.   
+After that, in this code snippet we will generate a new column, named `average` which is the sum of the 3 grades divided by 3. Python automatically will calculate the grade average for each row and will assign the result in a new column called `average`.   
 
 <br>
 
@@ -58,7 +58,7 @@ Finally, in this code snippet we will generate a new column, named `average` whi
 
 <br>
 
-Then, Python will generate a new CSV file containing the column <code>average</code>. This new file is named <code>grade_student.xlsx</code>. 
+Finally, Python will generate a new CSV file containing the column <code>average</code>. This new file is named <code>grade_student.xlsx</code>. 
 
 <br>
 
