@@ -59,6 +59,7 @@
 | ------------                                                      |    -----------                                                     |
 |  `git pull`                                                       | **Pull the newest changes made in the remote repository on GitHub**|
 | `git pull <https://github.com/user/repository.git> <branch-name>` | **Pull the newest changes of a specific branch**                   |
+| `git pull origin master --allow-unrelated-histories`              | **Pull the newest changes **                                       |
 
 </div>
 
