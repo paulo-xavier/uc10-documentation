@@ -11,7 +11,6 @@
 
 ## Explanation abut the code involving excel and python
 
-<div align="center">
 
 ```
 import pandas as pd
@@ -22,16 +21,15 @@ df['Average'] = df[['Grade1', 'Grade2', 'Grade3']].mean(axis=1)
 
 df.to_excel('grade_student.xlsx', index=False)
 ```
-</div>
 
 <br>
 
  In this code example, we are working with a excel spreadsheet called `base.xlsx`. This spreadsheet contains the following data: 
  <br><br>
 
-<div align="center">
+
  <img src = "https://github.com/paulo-xavier/uc10-documentation/blob/main/assets/excel1.png" width="550px" height="150px">
-</div>
+
 
 <br>
 
@@ -40,14 +38,14 @@ In the first line we improt a package called <code>pandas</code>. This package w
 
 <br>
 
-> <p align="center"> <code>import pandas as pd </code> </p>
+> <code>import pandas as pd </code> </p>
 
 <br>
 
 In the next line, we will read the file `base.xlsx` that contains our excel spreadsheet:
 <br> <br>
 
-> <p align = "center" > <code> df = pd.read_excel("base.xlsx")</code>  </p>
+>  <code> df = pd.read_excel("base.xlsx")</code>  </p>
 <br>
 
 After that, in this code snippet we will generate a new column, named `average` which is the sum of the 3 grades divided by 3. Python automatically will calculate the grade average for each row and will assign the result in a new column called `average`.   
@@ -65,6 +63,6 @@ Finally, Python will generate a new CSV file containing the column <code>average
 > <p align= "center"> <code> df.to_excel('grade_student.xlsx', index=False) </code> </p>
 
 <br>
-<div align="center">
+
 <img src = "https://github.com/paulo-xavier/uc10-documentation/blob/main/assets/excel2.png" width ="550px" height ="150px">
-</div>
+
