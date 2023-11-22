@@ -76,7 +76,34 @@
  
 
 
+<br>
+
+<details open> 
+  <summary> <h3> Creating a remote repository using Git step-by-step 📌</h3> </summary>
+
+<h4> Creating a folder </h4>
+
+- 💻 Create a folder in your computer where you wil upload the files to GitHub.
+
+<img width="70" height="70" alt="example" src="https://github.com/paulo-xavier/uc10-documentation/assets/133855530/0234dead-3761-48c5-bb8f-feac78d91b34">
+
 <br><br>
+
+<h4> Open this folder on terminal </h4>
+                                    
+<img width="400" height="300" alt="gitbash-screen" src="https://github.com/paulo-xavier/uc10-documentation/assets/133855530/b0e4ec98-e9f6-4370-952a-ba64031fe248">
+
+<br><br>
+
+<h4> <code> Git init</code></h4>
+
+
+
+
+
+</details>
+
+
  
 
   ### ⚙️ Updating local repository 
