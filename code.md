@@ -23,7 +23,7 @@ df['Average'] = df[['Grade1', 'Grade2', 'Grade3']].mean(axis=1)
 df.to_excel('grade_student.xlsx', index=False)
 ```
 
-<br>
+<br><br>
 
  In this code example, we are working with a excel spreadsheet called `base.xlsx`. This spreadsheet contains the following data: 
  <br><br>
@@ -32,7 +32,7 @@ df.to_excel('grade_student.xlsx', index=False)
  <img src = "https://github.com/paulo-xavier/uc10-documentation/blob/main/assets/excel1.png" width="550px" height="150px">
 
 
-<br>
+<br><br>
 
 As we can see, this spreadsheet contains a list of students and their respective grades. However, a column with the average of their grades is missing. To avoid the process of making the average manually, we are going to create a python code for that. 
 In the first line we improt a package called <code>pandas</code>. This package will allow us to read the <code>.csv</code> file and generate a new file based on that. 
