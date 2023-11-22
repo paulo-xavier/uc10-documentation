@@ -101,9 +101,40 @@
 
 - 💻 This command will initialize a local git repository in your machine. It's the first command that you will always use. You cannot use other commands before initialize the git command.   
 
+<br><br>
+After that, you can create some files or code something inside this folder that you want to send to your remote repository on Github. The next steps are related to uploading files from your local repository to the remote repository on Github. 
+
+![image](https://github.com/paulo-xavier/uc10-documentation/assets/133855530/83aa0ae4-21bc-49b1-9ebc-ab25cac32de0)
+
 <br>
 
-After that, you can create some files or code something inside this folde that you want to send to your remote repository on Github. The next steps are related to uploading files from your local repository to the remote repository on Github. 
+<h4> Git add </h4>
+
+<code> git add file-example.md </code>
+
+- 💻 After you finished to edit your file, it's time to add it to Github. The first command is the `git add` that will send these files to the local staging area. The staging area is a temporary location where your file will stay.
+
+<br><br>
+
+<h4> Git commit </h4>
+
+<code> git commit -m "my first commit" </code>
+
+-  💻 This command works as an agreement or confirmation of the changes in your code. It confirms the state of the code at that point in time.  
+
+<br><br> 
+
+Now, we are going to configurate the repository on Github where we are going to upload the file. Basically, we need to create a repository on Github and copy the URL of this repository adding `.git` in the end of the url.  
+The next step is to use the following command: 
+
+<br>
+
+
+
+
+
+
+
 
 </details>
 
