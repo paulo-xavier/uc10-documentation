@@ -101,6 +101,7 @@
 
 - 💻 This command will initialize a local git repository in your machine. It's the first command that you will always use. You cannot use other commands before initialize the git command.   
 
+<br>
 
 </details>
 
