@@ -103,6 +103,8 @@
 
 <br>
 
+After that, you can create some files or code something inside this folde that you want to send to your remote repository on Github. The next steps are related to uploading files from your local repository to the remote repository on Github. 
+
 </details>
 
 
