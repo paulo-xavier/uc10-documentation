@@ -13,9 +13,12 @@
   - [Extra commands](#%EF%B8%8F-extra-commands)
 - [Author](#-author--)
 
+<br>
+
 ## Commands
 
- 
+<br>
+
 
 ### ⚙️ Settings commands
 
@@ -29,7 +32,30 @@
 |  `git config --list`                                 | **Open a list of settings available**       |  
 |  `git config`                                        | **Show all the configurations available**   |
 
+<br>
 
+<details open> 
+  <summary> <h3> Example using <code>Git config</code> 📌 </h3> </summary>
+
+<h4> Setting a username </h4>
+
+<code> git config --global user.name "paulo-xavier"</code>
+- 💻 This command will define the global user name for your projects. It's recommended to be the same username that you use in your Github.
+
+<br>
+
+<h4> Setting a email </h4>
+
+<code> git config --global user.email "pauloxavier@gmail.com"</code>
+- 💻 This command will define the global email for your project. This email must be the same that you use on Github, because you will connect in your remote repository to commit the files.  
+
+<br>
+
+<h4> Checking the global username and email </h4>
+
+<code> git config --global --list</code>
+- 💻 This command shows the username and email registered. You can use it to check which email and username is defined as the global in your machine. If some of them be wrong, you can change using the commands on top. 
+</details>
 
 <br><br>
 
