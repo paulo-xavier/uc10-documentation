@@ -15,7 +15,7 @@
 
 ## Commands
 
-<div align="center"> 
+ 
 
 ### ⚙️ Settings commands
 
@@ -29,10 +29,11 @@
 |  `git config --list`                                 | **Open a list of settings available**       |  
 |  `git config`                                        | **Show all the configurations available**   |
 
-</div>
+
+
 <br><br>
 
-<div align="center"> 
+ 
 
   ### ⚙️ Creating git and opening connection with GitHub
 
@@ -47,11 +48,10 @@
 |  `git push -u origin <branch-name>`                              | **Send the branch files to the remote repository on GitHub**  |
 |  `git status`                                                    | **Verify the current status of your local git repository**  |
  
-</div>
+
 
 <br><br>
-
-<div align="center"> 
+ 
 
   ### ⚙️ Updating local repository 
 
@@ -61,11 +61,10 @@
 | `git pull <https://github.com/user/repository.git> <branch-name>` | **Pull the newest changes of a specific branch**                   |
 | `git pull origin master --allow-unrelated-histories`              | **Pull the newest changes of unrelated branches**                  |
 
-</div>
 
 <br><br>
 
-<div align="center"> 
+ 
 
   ### ⚙️ Cloning repositories
 
@@ -73,10 +72,10 @@
 | ------------                                          |  -----------                                                        |
 |  `git clone <https://github.com/user/repository.git>` | **Create a copy of a remote repository in your local machine**      |      
 
-</div>
+
 <br><br>
 
-<div align="center"> 
+ 
 
   ### ⚙️ Working with branches
 
@@ -88,11 +87,10 @@
 | `git branch -d <branch-name>`   | **Delete branch**                  |
 | `git branch`                    | **Show all the branches available**|
 
-</div>
+
 <br><br>
 
-
-<div align="center"> 
+ 
 
   ### ⚙️ Extra commands
 
@@ -101,6 +99,12 @@
 | `git log`                                                           | **Show all the commits made**                                     |
 | `git add --all`                                                     | **Add all files at the same time to the staging area**            |
 | `git remote set-url origin <https://github.com/user/repository.git>`| **Set a new remote repository origin where you will commit files**| 
-</div>
+
 <br><br>
 
+<h2> Author 💻 </h2>
+
+- Frontend Mentor - [@paulo-xavier](https://www.frontendmentor.io/profile/paulo-xavier)
+- Instagram - [@oxavierpaulo](https://www.instagram.com/oxavierpaulo/)
+- GitHub - [@paulo-xavier](https://github.com/paulo-xavier)
+- Linkedin - [@Paulo Roberto Xavier da Silva](https://www.linkedin.com/in/paulo-xavier-15bb6924a/)
