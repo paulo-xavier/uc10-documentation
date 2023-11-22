@@ -95,10 +95,11 @@
 
 <br><br>
 
-<h4> <code> Git init</code></h4>
+<h4>Git init</h4>
 
+<code>git init</code>
 
-
+- 💻 This command will initialize a local git repository in your machine. It's the first command that you will always use. You cannot use other commands before initialize the git command.   
 
 
 </details>
