@@ -5,7 +5,7 @@
 <br>
 
  ## Table of contents
-- [Explananation about the code](#explanation-abut-the-code-involving-excel-and-python)
+- [Explananation about the code](#explanation-about-the-code-involving-excel-and-python)
 
 <br>
 
