@@ -11,7 +11,7 @@
   - [Cloning repositories](#%EF%B8%8F-cloning-repositories)
   - [Working with branches](#%EF%B8%8F-working-with-branches)
   - [Extra commands](#%EF%B8%8F-extra-commands)
-- [Author](#author)
+- [Author](#-author--)
 
 ## Commands
 
