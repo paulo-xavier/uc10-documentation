@@ -21,7 +21,7 @@ When we public a small code or a big project in our GitHub's repository, we can 
 ## Types of licenses
 There are a variety of Licenses on GitHub, however the most important are:
 
-<details open>
+<details>
   
   <summary> <h3> 📝 MIT License </h3> </summaryy>
 
