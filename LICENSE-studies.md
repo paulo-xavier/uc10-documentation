@@ -88,6 +88,11 @@ This license contains the following versions:
 <details>
 <summary>  <h3> 📝 GNU Lesser General Public License </h3></summary>
 
+</details>
+
+<details> 
+
+<summary> <h3> 📝 Apache License 2.0 </h3></summary>
 This license is used for reproduction, distribution and use of a software or product. In this license, you are allowed to reproduce and distribute copies of a software by following these conditions: 
 - You must give any other recipients of the product a copy of this license;
 - You must cause any modified files to carry prominent notices starting that you changed the files;
@@ -96,12 +101,6 @@ This license is used for reproduction, distribution and use of a software or pro
 ### What is Deritative Works 
 
 A Deritative Works as a product, with copyrightable elements, but that has some new functionalities. It is similar to a product that is made referencing other works products from the same range. 
-
-  
-</details>
-
-<details> 
-<summary> <h3> Apache License 2.0 </h3></summary>
 
 </details>
  
