@@ -5,7 +5,15 @@
 
 
 ## Table of contents
-![]()
+
+- ![What is a license?]()
+-  ![Examples of licenses]()
+    - ![MIT License]()
+    - ![GNU General Public License (GPL)]()
+    - ![GNU Lesser General Public License ]()
+    - ![Apache License 2.0]()
+    - ![Mozilla Public License 2.0]()
+  
 
 
 
@@ -18,7 +26,7 @@ When we public a small code or a big project in our GitHub's repository, we can 
 
 <br>
 
-## Types of licenses
+## Examples of licenses
 There are a variety of Licenses on GitHub, however the most important are:
 
 <details open>
