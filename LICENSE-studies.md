@@ -23,7 +23,7 @@ There are a variety of Licenses on GitHub, however the most important are:
 
 <details>
   
-  <summary> <h3> 📝 MIT License </h3> </summaryy>
+  <summary> <h3> 📝 MIT License </h3> </summary>
 
 This is a famous and widely used license that allows users to do almost everything with your code, as long as if they provide the attribution back to you and do not hold you liable. So the users can copy, modify, merge, distribute and other things with your code, however you will be mentioned as the author and you will not have legal responsiblity with the use of your code by others. This license contains the following content snippet: 
 
@@ -35,6 +35,7 @@ without limitation the rights to use, copy, modify, merge, publish,
 distribute, sublicense, and/or sell copies of the Software, and to
 permit persons to whom the Software is furnished to do so, subject to
 the following conditions:
+
 </blockquote>
 
 <br> 
@@ -46,6 +47,7 @@ the following conditions:
 |  Distribution     |                  |                               |
 |  Private use      |                  |                               |
 
+<br> 
 
 </details>
  
