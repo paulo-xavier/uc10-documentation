@@ -50,4 +50,14 @@ the following conditions:
 <br> 
 
 </details>
+
+<details> 
+<summary> <h3> 📝 GNU General Public License (GPL) </h3></summary>
+
+This license is based on the copyleft pattern, which defines that you have freedom to share, modify and use a copyrighted software. Basically in this practice, the recipient must understand that what he is using is not the original version of the software. Licenses which implement copyleft can be used to maintain copyright conditions for works or programs. 
+
+> [!IMPORTANT]
+> The GNU license will be attached in all the cases where a original program/software was changed, copied or modified by someone. It will ensures that who will use this version of the software comprehends that this is not the original version. 
+
+</details>
  
