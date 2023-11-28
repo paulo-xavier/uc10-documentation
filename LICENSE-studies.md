@@ -40,12 +40,7 @@ the following conditions:
 
 <br> 
 
-|  **Permissions**  | **Limitations**  |  **Conditions**               |
-| ----------        |  -----------     |   ----------------            |
-| Commercial use    |   Liability      |  License and copyright notice |
-|  Modification     |   Warranty       |                               |
-|  Distribution     |                  |                               |
-|  Private use      |                  |                               |
+<img src = "https://github.com/paulo-xavier/uc10-documentation/blob/main/assets/mit-license.png">
 
 <br> 
 
@@ -124,8 +119,12 @@ This license allows use, modification and distribution of the software. For some
 - Licenses notices in the source code form must not be removed or altered. 
 - Contributors are not liable for any damages, including lost profits or commercial damages
 - Contributor represent that their contributions are their original creations or they have sufficient rights to grant the
-license. 
+license.
 
+<br>
+
+
+<img src = "https://github.com/paulo-xavier/uc10-documentation/blob/main/assets/mozilla-license.png">
 
 
 </details>
