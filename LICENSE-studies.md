@@ -79,6 +79,13 @@ This license contains the following versions:
 - ![🔗 GNU General Public License v2.0](https://github.com/gogs/gogs/blob/main/conf/license/GNU%20General%20Public%20License%20v2.0)
 - ![🔗 GNU General Public License v3.0](https://github.com/gogs/gogs/blob/main/conf/license/GNU%20General%20Public%20License%20v3.0)
 
+<br>
+
+<img src = "https://github.com/paulo-xavier/uc10-documentation/blob/main/assets/general-public-license.png">
+
+
+
+
 </details>
 
 <details>
