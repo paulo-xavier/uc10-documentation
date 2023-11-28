@@ -52,12 +52,30 @@ the following conditions:
 </details>
 
 <details> 
-<summary> <h3> 📝 GNU General Public License (GPL) </h3></summary>
+<summary>  <h3> 📝 GNU General Public License (GPL) </h3></summary>
 
 This license is based on the copyleft pattern, which defines that you have freedom to share, modify and use a copyrighted software. Basically in this practice, the recipient must understand that what he is using is not the original version of the software. Licenses which implement copyleft can be used to maintain copyright conditions for works or programs. 
 
-> [!IMPORTANT]
-> The GNU license will be attached in all the cases where a original program/software was changed, copied or modified by someone. It will ensures that who will use this version of the software comprehends that this is not the original version. 
+
+<strong> 📌 The GNU license will be attached in all the cases where a original program/software was changed, copied or modified by someone. It will ensures that who will use this version of the software comprehends that this is not the original version. </strong>
+
+### Understanding the restrictions for who uses this license 
+
+This license is desinged to make sure that you have the freedom to give away or sell copies of free softwares, change something in the source code or use pieces of this source code in other softwares. 
+However, you have some restrictions if you do that: 
+- If you distribute copies of a program, whether gratis or for a fee, you must give the recipients all the rights that you have.
+- You must make sure that they receive or can get the source code;
+- YOu must tell them their rights;
+- Attach a GNU license.
+
+It assures that the recipient understands that he is not using the original version of a product, but at the same time, that you have the freedom to copy and modify versions os free softwares. And alsom make sure that the recipient understands that there is no warranty for this product. If the software is not the original, the recipients will know and and future problem with this software will not reflect on the original author's reputation. 
+  
+### Versions of the license 
+
+This license contains the following versions:
+- 🔗 GNU General Public License v1.0
+- 🔗 GNU General Public License v2.0
+- 🔗 GNU General Public License v3.0
 
 </details>
  
