@@ -96,6 +96,7 @@ This license contains the following versions:
 <details open> 
 
 <summary> <h3> 📝 Apache License 2.0 </h3></summary>
+
 This license is used for reproduction, distribution and use of a software or product. In this license, you are allowed to reproduce and distribute copies of a software by following these conditions: 
 
 - You must give any other recipients of the product a copy of this license;
