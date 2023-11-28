@@ -113,7 +113,17 @@ A Deritative Works as a product, with copyrightable elements, but that has some 
 </details>
 
 <details open> 
+
 <summary> <h3> Mozilla Public License 2.0 </h3> </summary>
+
+This license allows use, modification and distribution of the software. For someone who wants to distributea software based on this license it is necessary to follow the following statements:
+
+- Distribution of covered software in source code form must be under the terms of this license
+- The source code must be distributed to the recipients
+- Licenses notices in the source code form must not be removed or altered. 
+- Contributors are not liable for any damages, including lost profits or commercial damages
+- Contributor represent that their contributions are their original creations or they have sufficient rights to grant the
+license. 
 
 
 
