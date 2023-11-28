@@ -65,7 +65,7 @@ This license is desinged to make sure that you have the freedom to give away or 
 However, you have some restrictions if you do that: 
 - If you distribute copies of a program, whether gratis or for a fee, you must give the recipients all the rights that you have.
 - You must make sure that they receive or can get the source code;
-- YOu must tell them their rights;
+- You must tell them their rights;
 - Attach a GNU license.
 
 It assures that the recipient understands that he is not using the original version of a product, but at the same time, that you have the freedom to copy and modify versions os free softwares. And alsom make sure that the recipient understands that there is no warranty for this product. If the software is not the original, the recipients will know and and future problem with this software will not reflect on the original author's reputation. 
@@ -73,9 +73,9 @@ It assures that the recipient understands that he is not using the original vers
 ### Versions of the license 
 
 This license contains the following versions:
-- 🔗 GNU General Public License v1.0
-- 🔗 GNU General Public License v2.0
-- 🔗 GNU General Public License v3.0
+- ![🔗 GNU General Public License v1.0](https://github.com/gogs/gogs/blob/main/conf/license/GNU%20General%20Public%20License%20v1.0)
+- ![🔗 GNU General Public License v2.0](https://github.com/gogs/gogs/blob/main/conf/license/GNU%20General%20Public%20License%20v2.0)
+- ![🔗 GNU General Public License v3.0](https://github.com/gogs/gogs/blob/main/conf/license/GNU%20General%20Public%20License%20v3.0)
 
 </details>
  
