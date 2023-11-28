@@ -21,7 +21,7 @@ When we public a small code or a big project in our GitHub's repository, we can 
 ## Types of licenses
 There are a variety of Licenses on GitHub, however the most important are:
 
-<details>
+<details open>
   
   <summary> <h3> 📝 MIT License </h3> </summary>
 
@@ -51,7 +51,7 @@ the following conditions:
 
 </details>
 
-<details> 
+<details open> 
 <summary>  <h3> 📝 GNU General Public License (GPL) </h3></summary>
 
 <br>
@@ -91,7 +91,7 @@ This license contains the following versions:
 
 </details>
 
-<details> 
+<details open> 
 
 <summary> <h3> 📝 Apache License 2.0 </h3></summary>
 This license is used for reproduction, distribution and use of a software or product. In this license, you are allowed to reproduce and distribute copies of a software by following these conditions: 
