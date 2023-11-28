@@ -54,10 +54,14 @@ the following conditions:
 <details> 
 <summary>  <h3> 📝 GNU General Public License (GPL) </h3></summary>
 
+<br>
+
 This license is based on the copyleft pattern, which defines that you have freedom to share, modify and use a copyrighted software. Basically in this practice, the recipient must understand that what he is using is not the original version of the software. Licenses which implement copyleft can be used to maintain copyright conditions for works or programs. 
 
 
 <strong> 📌 The GNU license will be attached in all the cases where a original program/software was changed, copied or modified by someone. It will ensures that who will use this version of the software comprehends that this is not the original version. </strong>
+
+<br>
 
 ### Understanding the restrictions for who uses this license 
 
@@ -69,13 +73,35 @@ However, you have some restrictions if you do that:
 - Attach a GNU license.
 
 It assures that the recipient understands that he is not using the original version of a product, but at the same time, that you have the freedom to copy and modify versions os free softwares. And alsom make sure that the recipient understands that there is no warranty for this product. If the software is not the original, the recipients will know and and future problem with this software will not reflect on the original author's reputation. 
-  
+
+<br>
+
 ### Versions of the license 
 
 This license contains the following versions:
 - ![🔗 GNU General Public License v1.0](https://github.com/gogs/gogs/blob/main/conf/license/GNU%20General%20Public%20License%20v1.0)
 - ![🔗 GNU General Public License v2.0](https://github.com/gogs/gogs/blob/main/conf/license/GNU%20General%20Public%20License%20v2.0)
 - ![🔗 GNU General Public License v3.0](https://github.com/gogs/gogs/blob/main/conf/license/GNU%20General%20Public%20License%20v3.0)
+
+</details>
+
+<details>
+<summary>  <h3> 📝 GNU Lesser General Public License </h3></summary>
+
+This license is used for reproduction, distribution and use of a software or product. In this license, you are allowed to reproduce and distribute copies of a software by following these conditions: 
+- You must give any other recipients of the product a copy of this license;
+- You must cause any modified files to carry prominent notices starting that you changed the files;
+- You have to include all the copyright, patent, trademark and attribution notices from the source of the software, excluding those notices that do not pertain to any part of the Deritative Works. 
+
+### What is Deritative Works 
+
+A Deritative Works as a product, with copyrightable elements, but that has some new functionalities. It is similar to a product that is made referencing other works products from the same range. 
+
+  
+</details>
+
+<details> 
+<summary> <h3> Apache License 2.0 </h3></summary>
 
 </details>
  
