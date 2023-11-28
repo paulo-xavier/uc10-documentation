@@ -6,7 +6,7 @@
 
 ## Table of contents
 
-- ![What is a license?]()
+- ![What is a license?](#what-is-a-license-%EF%B8%8F)
 -  ![Examples of licenses]()
     - ![MIT License]()
     - ![GNU General Public License (GPL)]()
