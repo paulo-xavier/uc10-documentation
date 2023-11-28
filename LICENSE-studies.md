@@ -98,11 +98,24 @@ This license is used for reproduction, distribution and use of a software or pro
 
 - You must give any other recipients of the product a copy of this license;
 - You must cause any modified files to carry prominent notices starting that you changed the files;
-- You have to include all the copyright, patent, trademark and attribution notices from the source of the software, excluding those notices that do not pertain to any part of the Deritative Works. 
+- You have to include all the copyright, patent, trademark and attribution notices from the source of the software, excluding those notices that do not pertain to any part of the <em> ![Deritative Works]() </em>.
+
+  <br>
+
+ <img src = "https://github.com/paulo-xavier/uc10-documentation/blob/main/assets/license-apache.webp" width = "800px" height="250px">
+
+
 
 ### What is Deritative Works 
 
 A Deritative Works as a product, with copyrightable elements, but that has some new functionalities. It is similar to a product that is made referencing other works products from the same range. 
+
+</details>
+
+<details open> 
+<summary> <h3> Mozilla Public License 2.0 </h3> </summary>
+
+
 
 </details>
  
