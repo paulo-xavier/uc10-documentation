@@ -100,10 +100,11 @@ This license is used for reproduction, distribution and use of a software or pro
 - You must cause any modified files to carry prominent notices starting that you changed the files;
 - You have to include all the copyright, patent, trademark and attribution notices from the source of the software, excluding those notices that do not pertain to any part of the <em> ![Deritative Works]() </em>.
 
-  <br>
+<br>
 
- <img src = "https://github.com/paulo-xavier/uc10-documentation/blob/main/assets/license-apache.webp" width = "800px" height="250px">
+<img src = "https://github.com/paulo-xavier/uc10-documentation/blob/main/assets/apache-license.png" >
 
+<br>
 
 
 ### What is Deritative Works 
