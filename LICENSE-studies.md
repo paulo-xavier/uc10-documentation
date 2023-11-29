@@ -103,7 +103,7 @@ A software that is using this license will allow users to use, modify and distri
 - It still has copyleft conditions, it means that if you modify and distribute a software with this license, you must make the modified source code available under the LGPL.
 - You can also combine this license with other licenses. 
 
-
+![Lesser General Public License](https://github.com/paulo-xavier/uc10-documentation/blob/main/assets/lgpl-license.png)
 
 
 </details>
