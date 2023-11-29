@@ -93,8 +93,18 @@ This license contains the following versions:
 
 </details>
 
-<details>
+<details open>
 <summary>  <h3> 📝 GNU Lesser General Public License </h3></summary>
+
+This license is similar with the General Public License, allowing developers to use, modify and distribute software under certain conditions. The difference is that LGPL is designed to be less restrictive than the regular GNU, allowing more flexibility in the use of a software. 
+
+A software that is using this license will allow users to use, modify and distribute this software as longs as they comply with the terms. 
+
+- It still has copyleft conditions, it means that if you modify and distribute a software with this license, you must make the modified source code available under the LGPL.
+- You can also combine this license with other licenses. 
+
+
+
 
 </details>
 
