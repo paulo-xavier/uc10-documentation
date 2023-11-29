@@ -29,8 +29,8 @@ When we public a small code or a big project in our GitHub's repository, we can 
 ## Examples of licenses
 There are a variety of Licenses on GitHub, however the most important are:
 
+
 <details open>
-  
   <summary> <h3> 📝 MIT License </h3> </summary>
 
 This is a famous and widely used license that allows users to do almost everything with your code, as long as if they provide the attribution back to you and do not hold you liable. So the users can copy, modify, merge, distribute and other things with your code, however you will be mentioned as the author and you will not have legal responsiblity with the use of your code by others. This license contains the following content snippet: 
@@ -53,6 +53,7 @@ the following conditions:
 <br> 
 
 </details>
+
 
 <details open> 
 <summary>  <h3> 📝 GNU General Public License (GPL) </h3></summary>
@@ -93,6 +94,7 @@ This license contains the following versions:
 
 </details>
 
+
 <details open>
 <summary>  <h3> 📝 GNU Lesser General Public License </h3></summary>
 
@@ -103,10 +105,12 @@ A software that is using this license will allow users to use, modify and distri
 - It still has copyleft conditions, it means that if you modify and distribute a software with this license, you must make the modified source code available under the LGPL.
 - You can also combine this license with other licenses. 
 
-![Lesser General Public License](https://github.com/paulo-xavier/uc10-documentation/blob/main/assets/lgpl-license.png)
+<br>
 
+<img src = "https://github.com/paulo-xavier/uc10-documentation/blob/main/assets/lgpl-license.png"> 
 
 </details>
+
 
 <details open> 
 
@@ -124,12 +128,13 @@ This license is used for reproduction, distribution and use of a software or pro
 
 <br>
 
-
 ### What is Deritative Works 
 
 A Deritative Works as a product, with copyrightable elements, but that has some new functionalities. It is similar to a product that is made referencing other works products from the same range. 
 
 </details>
+
+
 
 <details open> 
 
@@ -146,10 +151,10 @@ license.
 
 <br>
 
-
 <img src = "https://github.com/paulo-xavier/uc10-documentation/blob/main/assets/mozilla-license.png">
 
 </details>
+
 
 
 <details open>
@@ -173,6 +178,8 @@ This version contains one more item, which is: _"3. All advertising materials me
 Both of the 2 new versions include new license conditions for someone who is going to modify an existing software. 
     
 </details>
+
+
 
 <details open> 
 <summary> <h3> 📝 Creative Commons Licenses </h3></summary>
