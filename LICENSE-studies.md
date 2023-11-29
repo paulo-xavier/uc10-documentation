@@ -126,7 +126,7 @@ A Deritative Works as a product, with copyrightable elements, but that has some 
 
 <details open> 
 
-<summary> <h3> Mozilla Public License 2.0 </h3> </summary>
+<summary> <h3> 📝 Mozilla Public License 2.0 </h3> </summary>
 
 This license allows use, modification and distribution of the software. For someone who wants to distributea software based on this license it is necessary to follow the following statements:
 
@@ -142,6 +142,28 @@ license.
 
 <img src = "https://github.com/paulo-xavier/uc10-documentation/blob/main/assets/mozilla-license.png">
 
+</details>
 
+
+<details>
+<summary> <h3> 📝 BSD 2-clause License </h3></summary>
+
+This is a short license that defines parameters for sharing, using, modifying and distributing software under certain conditions. In this license, you will include a default copyright message with the year of publication and the owner. 
+This license grants permission for other to redistribute and use the software in both ways, as long as they compply with the conditions:
+- Redistributions of the source code must include the original copyright notice, the list of conditions, and the disclaimer in the documentation or other materials provided with the distribution.
+
+And also, there are important things about the disclaimer and limititation of liability:
+- The copyright holders and contributors are not liable for any direct, indirect, incidental, special, exemplary, or consequential damages, even if they have been advises of the possibility of such damages. 
+
+### BSD 3-clause License
+
+This another version is an arrangemnt of the previous versions with a new item. It consists of: "_3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission."_
+
+### BSD 4-clause License 
+
+This version contains one more item, which is: _"3. All advertising materials mentioning features or use of this software must display the following acknowledgement: This product includes software developed by the the organization."_
+
+Both of the 2 new versions include new license conditions for someone who is going to modify an existing software. 
+    
 </details>
  
