@@ -6,13 +6,13 @@
 
 ## Table of contents
 
-- ![What is a license?]()
--  ![Examples of licenses]()
-    - ![MIT License]()
-    - ![GNU General Public License (GPL)]()
-    - ![GNU Lesser General Public License ]()
-    - ![Apache License 2.0]()
-    - ![Mozilla Public License 2.0]()
+- ![What is a license?](#)
+-  ![Examples of licenses](#)
+    - ![MIT License](#)
+    - ![GNU General Public License (GPL)](#)
+    - ![GNU Lesser General Public License ](#)
+    - ![Apache License 2.0](#)
+    - ![Mozilla Public License 2.0](#)
 
 <br>
 
