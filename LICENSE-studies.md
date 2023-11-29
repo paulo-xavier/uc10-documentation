@@ -8,7 +8,7 @@
 
 - ![What is a license?](https://github.com/paulo-xavier/uc10-documentation/blob/main/LICENSE-studies.md#what-is-a-license-%EF%B8%8F)
 -  ![Examples of licenses]()
-    - ![MIT License]()
+    - ![MIT License](https://github.com/paulo-xavier/uc10-documentation/blob/main/LICENSE-studies.md#--mit-license-)
     - ![GNU General Public License (GPL)]()
     - ![GNU Lesser General Public License ]()
     - ![Apache License 2.0]()
