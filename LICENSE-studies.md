@@ -91,9 +91,6 @@ This license contains the following versions:
 
 <img src = "https://github.com/paulo-xavier/uc10-documentation/blob/main/assets/general-public-license.png">
 
-
-
-
 </details>
 
 <details>
@@ -145,7 +142,7 @@ license.
 </details>
 
 
-<details>
+<details open>
 <summary> <h3> 📝 BSD 2-clause License </h3></summary>
 
 This is a short license that defines parameters for sharing, using, modifying and distributing software under certain conditions. In this license, you will include a default copyright message with the year of publication and the owner. 
@@ -165,5 +162,12 @@ This version contains one more item, which is: _"3. All advertising materials me
 
 Both of the 2 new versions include new license conditions for someone who is going to modify an existing software. 
     
+</details>
+
+<details open> 
+<summary> <h3> 📝 Creative Commons Licenses </h3></summary>
+
+This type of licenwse is different from others, specially because it is not specific for software. Creative Common Licenses are more associated with creative works like text, images, music and other artistic content. It involves aspects not related to software itself. It is a tool for creators who want to release their work into the public domain, essentially allowing anyone to use the work for any purpose without any restrictions.
+
 </details>
  
