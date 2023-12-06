@@ -22,4 +22,4 @@
 - **Knowledges**:
   * [Git documentation](https://github.com/paulo-xavier/uc10-documentation/blob/main/commands.md)
   * [Python activity](https://github.com/paulo-xavier/uc10-documentation/blob/main/code.md)
-  * [GitHub Licenses] (https://github.com/paulo-xavier/uc10-documentation/blob/main/LICENSE-studies.md)
+  * [GitHub Licenses](https://github.com/paulo-xavier/uc10-documentation/blob/main/LICENSE-studies.md)
