@@ -7,12 +7,14 @@
 ## Table of contents
 
 - ![What is a license?](https://github.com/paulo-xavier/uc10-documentation/blob/main/LICENSE-studies.md#what-is-a-license-%EF%B8%8F)
--  ![Examples of licenses](#)
-    - ![MIT License](#)
-    - ![GNU General Public License (GPL)](#)
-    - ![GNU Lesser General Public License ](#)
-    - ![Apache License 2.0](#)
-    - ![Mozilla Public License 2.0](#)
+-  ![Examples of licenses](https://github.com/paulo-xavier/uc10-documentation/blob/main/LICENSE-studies.md#examples-of-licenses)
+    - ![MIT License](https://github.com/paulo-xavier/uc10-documentation/blob/main/LICENSE-studies.md#--mit-license-)
+    - ![GNU General Public License (GPL)](https://github.com/paulo-xavier/uc10-documentation/blob/main/LICENSE-studies.md#--gnu-general-public-license-gpl-)
+    - ![GNU Lesser General Public License ](https://github.com/paulo-xavier/uc10-documentation/blob/main/LICENSE-studies.md#--gnu-lesser-general-public-license-)
+    - ![Apache License 2.0](https://github.com/paulo-xavier/uc10-documentation/blob/main/LICENSE-studies.md#--apache-license-20-)
+    - ![Mozilla Public License 2.0](https://github.com/paulo-xavier/uc10-documentation/blob/main/LICENSE-studies.md#--mozilla-public-license-20-)
+    - ![BSD 2-clause License](https://github.com/paulo-xavier/uc10-documentation/blob/main/LICENSE-studies.md#--bsd-2-clause-license-)
+    - ![Creative Commons Licenses](https://github.com/paulo-xavier/uc10-documentation/blob/main/LICENSE-studies.md#--creative-commons-licenses-)
 
 <br>
 
