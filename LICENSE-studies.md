@@ -6,8 +6,8 @@
 
 ## Table of contents
 
-- ![What is a license?](https://github.com/paulo-xavier/uc10-documentation/blob/main/LICENSE-studies.md#what-is-a-license-%EF%B8%8F)
--  ![Examples of licenses](https://github.com/paulo-xavier/uc10-documentation/blob/main/LICENSE-studies.md#examples-of-licenses)
+- [What is a license?](https://github.com/paulo-xavier/uc10-documentation/blob/main/LICENSE-studies.md#what-is-a-license-%EF%B8%8F)
+-  [Examples of licenses](https://github.com/paulo-xavier/uc10-documentation/blob/main/LICENSE-studies.md#examples-of-licenses)
     - ![MIT License](https://github.com/paulo-xavier/uc10-documentation/blob/main/LICENSE-studies.md#--mit-license-)
     - ![GNU General Public License (GPL)](https://github.com/paulo-xavier/uc10-documentation/blob/main/LICENSE-studies.md#--gnu-general-public-license-gpl-)
     - ![GNU Lesser General Public License ](https://github.com/paulo-xavier/uc10-documentation/blob/main/LICENSE-studies.md#--gnu-lesser-general-public-license-)
