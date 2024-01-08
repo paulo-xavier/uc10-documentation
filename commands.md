@@ -178,7 +178,15 @@ The next step is to use the following command:
 
 <br><br>
 
- 
+ ### ⚙️ Editing a commit 
+
+| Command                                       | Description                        |
+|--------                                       |  ---------                         |
+| `git commit --amend -m "new commit message"`  | **Edit the last commit message**   |
+| `git push origin main --force`                | **Push the new commit to GitHub**  |
+
+<br><br>
+
 
   ### ⚙️ Extra commands
 
@@ -189,6 +197,7 @@ The next step is to use the following command:
 | `git remote set-url origin <https://github.com/user/repository.git>`| **Set a new remote repository origin where you will commit files**| 
 
 <br><br>
+
 
 <h2> Author 💻 </h2>
 
